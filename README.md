@@ -1,4 +1,24 @@
 # GabrielGB-marketing
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">- ADS Study<br>- universitario UNICEUB<br>- 1 Semestre da faculdade</p>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
